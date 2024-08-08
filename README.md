@@ -3,7 +3,7 @@
 ## Description
 212 People – 48,000 Images of Multi-person and Multi-view Tracking Data. The data includes males and females, and the age distribution is from children to the elderly. The data diversity includes different age groups, different shooting angles, different human body orientations and postures. For annotation, we adpoted rectangular bounding boxes annotations on human body. This dataset can be used for multiple object tracking and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1191?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/1191?source=Github
 
 
 ## Data size
